@@ -1,4 +1,9 @@
 # labpy_05
+Nama : Doni Alvero
+NIM : 312410663
+Kelas : TI.24.A.5
+Mata Kuliah : Bahasa Pemrograman
+
 1. Header Program
 print("\nProgram Input Nilai")
 print("===================")
