@@ -1,7 +1,7 @@
 # labpy_05
 Nama : Doni Alvero <p>
 NIM : 312410663 <p>
-Kelas : TI.24.A.5
+Kelas : TI.24.A.5 <p>
 Mata Kuliah : Bahasa Pemrograman <p>
 ## Flowchart
 ![GAMBAR 5](flowchart.png)
