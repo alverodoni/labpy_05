@@ -3,6 +3,9 @@ Nama : Doni Alvero
 NIM : 312410663
 Kelas : TI.24.A.5
 Mata Kuliah : Bahasa Pemrograman
+## Flowchart
+![GAMBAR 5](flowchart.png)
+
 ## Kode Program 
 ![GAMBAR 3](gambar3.png)
 ![GAMBAR 4](gambar4.png)
